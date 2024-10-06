@@ -1,0 +1,1 @@
+# rspack-module-federation-tempalte
