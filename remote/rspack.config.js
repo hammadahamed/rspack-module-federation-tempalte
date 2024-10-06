@@ -126,7 +126,7 @@ module.exports = {
   plugins: [
     new VueLoaderPlugin(),
     new rspack.container.ModuleFederationPlugin({
-      name: "gfFormApp",
+      name: "rsRemote",
       filename: "remoteEntry.js",
       exposes: {
         "./Content": "./src/components/Content",

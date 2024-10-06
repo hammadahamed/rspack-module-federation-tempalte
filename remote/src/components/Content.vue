@@ -1,7 +1,7 @@
 <template>
   <div class="mt-10 text-3xl w-full mx-auto max-w-6xl">
     <h1>
-      Remote 1
+      Remote 2
       <span>{{ test ?? "-" }}</span>
     </h1>
     <br />

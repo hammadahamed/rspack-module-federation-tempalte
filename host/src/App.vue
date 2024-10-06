@@ -15,7 +15,7 @@
 </template>
 
 <script lang="ts" setup>
-import Content from "gfFormApp/Content";
+import Content from "rsRemote/Content";
 import { ref } from "vue";
 
 const count = ref(1);

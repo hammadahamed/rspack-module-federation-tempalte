@@ -1,6 +1,6 @@
 <template>
   <div class="mt-10 text-3xl mx-auto max-w-6xl">
-    <div class="redd">Name: gf-form-app</div>
+    <div class="redd">Name: Rspack - Remote</div>
     <div>Framework: vue3</div>
     <div>Language: TypeScript</div>
     <div>CSS: Tailwind</div>

@@ -123,10 +123,10 @@ module.exports = {
   plugins: [
     new VueLoaderPlugin(),
     new rspack.container.ModuleFederationPlugin({
-      name: "grootformApp",
+      name: "rsHost",
       filename: "remoteEntry.js",
       remotes: {
-        gfFormApp: "gfFormApp@http://localhost:6786/remoteEntry.js",
+        rsRemote: "rsRemote@http://localhost:6786/remoteEntry.js",
       },
       exposes: {},
       shared: {
