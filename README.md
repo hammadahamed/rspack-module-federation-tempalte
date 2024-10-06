@@ -1,4 +1,4 @@
-# rspack-module-federation-tempalte
+# rspack-module-federation-template
 
 This is a boilerplat for creating micro-frontend using the concept of `Module Federation` which was initially rolled out as part of webpack5
 
